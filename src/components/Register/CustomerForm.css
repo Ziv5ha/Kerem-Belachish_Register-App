@@ -1,0 +1,34 @@
+.basket-counters-container {
+  display: flex;
+  flex-direction: row;
+  padding: 0.5em;
+  width: 100%;
+  justify-content: space-evenly;
+}
+.basket-counter {
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+  padding: 0 0 1em 0em;
+  width: 40%;
+
+  border-radius: 1em;
+  box-shadow: 1px 1px 5px 0px black;
+}
+.basket-counter-btns-container {
+  font-size: 20px;
+  text-emphasis: bold;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  text-align: center;
+  width: 80%;
+  justify-content: space-evenly;
+}
+.basket-counter-btn {
+  font-size: 40px;
+  text-align: center;
+  padding: 0;
+  background-color: white;
+}

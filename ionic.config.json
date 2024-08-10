@@ -1,0 +1,7 @@
+{
+  "name": "הכרם בלכיש",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

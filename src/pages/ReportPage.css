@@ -1,0 +1,15 @@
+.report-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+.report-header-btn {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  /* font-size: 0.5em; */
+}
+.report-counter {
+  margin: 0 2em;
+  color: grey;
+}
